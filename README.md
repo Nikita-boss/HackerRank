@@ -1,2 +1,3 @@
 # HackerRank
-Solutions to HackerRank problems
+Solutions to HackerRank problems.
+Language: C++
